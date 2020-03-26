@@ -21,10 +21,10 @@
 + п3-
 
 ## Исходный код
-<
-include<io.h>
-using namespace std;
-int main(){
-  return 0;
- }
->
+
+    include<io.h>
+    using namespace std;
+    int main(){
+    return 0;
+    }
+
